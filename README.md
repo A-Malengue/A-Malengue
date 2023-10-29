@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-Malengue
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML,CSS and PHP
-- 💞️ I’m looking to collaborate on web related projects
+- 👀 I’m interested in learning more about the world of coding
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Instagram as _malengue.
 
 <!---
